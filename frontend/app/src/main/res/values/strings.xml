@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IbtissamLocalizer</string>
+    <string name="ibtissam_footer">Réalisé par Ibtissam</string>
+    <string name="ibtissam_no_location">Aucune position détectée</string>
+    <string name="ibtissam_btn_send">Envoyer Position</string>
+    <string name="ibtissam_btn_clear">Effacer Tout</string>
+    <string name="ibtissam_provider_enabled">Fournisseur %s activé</string>
+    <string name="ibtissam_provider_disabled">Fournisseur %s désactivé</string>
+    <string name="ibtissam_error_send">Erreur lors de l\'envoi</string>
+    <string name="ibtissam_success_send">Position enregistrée !</string>
+</resources>

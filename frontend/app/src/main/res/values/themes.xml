@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Lab11" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/ibtissam_primary</item>
+        <item name="colorPrimaryVariant">@color/ibtissam_primary_dark</item>
+        <item name="colorAccent">@color/ibtissam_accent</item>
+        <item name="android:windowBackground">@color/ibtissam_background</item>
+        <item name="android:statusBarColor">@color/ibtissam_primary_dark</item>
+    </style>
+
+    <style name="Theme.Lab11" parent="Base.Theme.Lab11" />
+</resources>
