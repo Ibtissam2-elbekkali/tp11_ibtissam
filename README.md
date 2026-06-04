@@ -14,11 +14,10 @@ Un dashboard web permet de visualiser toutes les positions enregistrées.
 - **Communication** : HTTP (POST JSON)
 
 ##  Structure du projet
-```
+
 TP11_ibtissam/
 ├── frontend/   → Application Android
 └── backend/    → Serveur PHP + Dashboard web
-```
 
 ## ⚙️ Fonctionnalités
 - Récupération de la position GPS (latitude, longitude, altitude)
